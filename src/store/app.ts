@@ -4,7 +4,7 @@ const defaultUserAppList = [
     name: "AI搜索",
     link: "https://ai-search.zeabur.app/",
     logo: "https://translate.google.cn//favicon.ico",
-    type: "outer",
+    type: "inner",
     width: 1024,
     height: 528,
     x: 256,
