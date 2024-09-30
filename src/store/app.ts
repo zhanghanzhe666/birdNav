@@ -54,6 +54,17 @@ const defaultUserAppList = [
     x: 145,
     y: 9.916666666666629,
   },
+  {
+    id: "dfsgdfhbfgrjhty",
+    name: "MSN天气",
+    link: "https://www.msn.cn/zh-cn/weather",
+    logo: "https://res.public.onecdn.static.microsoft/creativeservice/3430b1a7-7088-9320-9d5d-fc0714e31835_8353863567095989496_128000000002452769_assets_image1_1607464730314.png",
+    type: "inner",
+    width: 1024,
+    height: 528,
+    x: 256,
+    y: 132,
+  },
 ];
 
 export type UserApp = typeof defaultUserAppList[number];
