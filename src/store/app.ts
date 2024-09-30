@@ -1,8 +1,8 @@
 const defaultUserAppList = [
   {
     id: "dfsgdfhbfgrjhty",
-    name: "谷歌翻译",
-    link: "https://translate.google.cn/",
+    name: "AI搜索",
+    link: "https://ai-search.zeabur.app/",
     logo: "https://translate.google.cn//favicon.ico",
     type: "outer",
     width: 1024,
